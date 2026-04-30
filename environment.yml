@@ -1,0 +1,14 @@
+name: free-energy
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - gromacs=2026.0
+  - nglview=3.1.1
+  - matplotlib
+  - notebook
+  - numpy
+  - requests
+  - pandas
+  - seaborn
+  - mdtraj
