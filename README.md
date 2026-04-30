@@ -38,14 +38,13 @@ jupyter notebook main.ipynb
 ## Error analysis
 
 The final result is 
-$$
-\Delta{}G = -18.571465\pm{}0.682204\text{ kJ/mol}
-$$
+
+$$\Delta{}G = -18.571465\pm{}0.682204\text{ kJ/mol}$$
+
 which is consistent with experimental value from
 [FreeSolv](https://doi.org/10.1007/s10822-014-9747-x)
-$$
-\Delta{}G=-20.92\pm2.5104\text{ kJ/mol}.
-$$
+
+$$\Delta{}G=-20.92\pm2.5104\text{ kJ/mol}.$$
 
 The following plot can be used to analyse which steps contribute most to the
 total computation error.
